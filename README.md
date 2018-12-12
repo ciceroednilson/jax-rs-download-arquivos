@@ -2,7 +2,7 @@
 
 ### Introdução.
 
-Esse código mostra de forma simples como criar um serviço Rest para a realização de download de arquivos em.
+Esse código mostra de forma simples como criar um serviço Rest para a realização de download de arquivos em JAX-RS.
 
 
 ### Link do Tutorial
